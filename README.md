@@ -1,7 +1,7 @@
 # Adult Census Income Prediction
 
 ## Project Overview
-This capstone project aims to predict whether an individual's annual income exceeds  based on census demographic data. It is a binary classification problem that deals with class imbalance, missing values, and high-cardinality categorical features.
+This machine learning project aims to predict whether an individual's annual income exceeds $50K based on census demographic data. It is a binary classification problem that deals with class imbalance, missing values, and high-cardinality categorical features.
 
 ## Workflow and Methodology
 
